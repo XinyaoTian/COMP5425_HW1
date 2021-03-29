@@ -1,0 +1,4 @@
+File 2: 
+You are required to complete a program to find similar documents (e.g., articles, queries or questions in sentence) for a given query (e.g., an article or a sentence). 
+The similarity can be defined by you, such as content similarity or emotion similarity such as sentiment. 
+You can use the 20 Newsgroup dataset or any similar dataset you can find.

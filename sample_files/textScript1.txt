@@ -1,0 +1,5 @@
+File 1:
+This is an txt file used for practicing Python.
+The second line.
+Hello, world! --  This is the third line.
+The End. -- This is the bottom line.
